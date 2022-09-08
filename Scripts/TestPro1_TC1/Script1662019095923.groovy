@@ -17,7 +17,7 @@ import com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
+// updaed code for 1st time
 WebUI.openBrowser("https://www.google.com/");
 //WebUI.navigateToUrl("https://www.samsung.com/in/")
 //WebUI.closeBrowser();
